@@ -11,3 +11,5 @@ Kullanım;
   https://discord.com/developers/active-developer
   
   created/developed by Akiserius
+
+NOT : botu akifleşirmek için kişisel bilgisayarınızda yada bu klasör içerisinde açmış olduğunuz konsolunuza/powershellinize ve ya glich , replit vb platforumların size sunduğu konsol/powershell penceresine sırasıyla "npm i discord.js" (bu komut gerekli modülleri yüklemektedir 1 kere girilmesi yeterlidir.) ve "node index.js" (botu başlatma komududur botu her başlatt istediğinizde konsol/powershellinize girmelisiniz) komutlarını yazmalısınız.
