@@ -14,4 +14,5 @@ module.exports = async (client) => {
   }
 
     console.log(`${client.user.tag} Aktif!`);
+    console.log(`${client.user.tag} created/developed by Akiserius`);
 };
