@@ -1,6 +1,6 @@
 Discord.js V14 Slash Bot Altyapısı
 Kullanım;
-  Config.json dosyasındaki gerekli alana botunuzun tokeninigirin.
+  Config.json dosyasındaki gerekli alana botunuzun tokenini girin.
   botunuzu "Administrator" ve ya "Slash Komutu" izni vererek bir sunucuya ekleyin.
   kişisel bilgisayarınızdan ve replit glich vb sitelerden botunuzu aktifleştirin.
   botunuzdan /ping komutunu bir kaç kez kullanın.
